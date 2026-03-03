@@ -9,3 +9,6 @@ https://www.rfc-editor.org/rfc/rfc5246
 
 Fielding, R. et al. (1999) Hypertext Transfer Protocol — HTTP/1.1. RFC 2616.
 https://www.rfc-editor.org/rfc/rfc2616 
+
+Hoffman, P. and Yergeau, F. (2000) UTF-8, a Transformation Format of ISO 10646. RFC 2279.
+https://www.rfc-editor.org/rfc/rfc2279 
