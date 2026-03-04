@@ -12,3 +12,6 @@ https://www.rfc-editor.org/rfc/rfc2616
 
 Hoffman, P. and Yergeau, F. (2000) UTF-8, a Transformation Format of ISO 10646. RFC 2279.
 https://www.rfc-editor.org/rfc/rfc2279 
+
+Khan Academy (2023) Encoding vs Encryption Explained.
+https://www.khanacademy.org/computing/computer-science/cryptography
