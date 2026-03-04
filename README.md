@@ -31,3 +31,6 @@ Zdziarski, J. (2014) Hacking Exposed: Web Applications. 3rd edn. New York: McGra
 #  Chapter 2
 
 Cormen, T. H., Leiserson, C. E., Rivest, R. L., and Stein, C. Introduction to Algorithms. MIT Press. https://mitpress.mit.edu
+
+Garey, M. R., and Johnson, D. S. Computers and Intractability: A Guide to the Theory of NP-Completeness. https://www.cs.princeton.edu
+
