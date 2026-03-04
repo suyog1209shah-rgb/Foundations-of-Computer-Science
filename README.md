@@ -27,3 +27,7 @@ Stallings, W. (2020) Cryptography and Network Security: Principles and Practice.
 Vaishnav, A. (2021) ‘Base64 Encoding and Its Applications in Web Security’, International Journal of Computer Networks, 13(2), pp. 45–52.
 
 Zdziarski, J. (2014) Hacking Exposed: Web Applications. 3rd edn. New York: McGraw-Hill Education.
+
+#  Chapter 2
+
+Cormen, T. H., Leiserson, C. E., Rivest, R. L., and Stein, C. Introduction to Algorithms. MIT Press. https://mitpress.mit.edu
