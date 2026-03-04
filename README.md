@@ -19,3 +19,5 @@ https://www.khanacademy.org/computing/computer-science/cryptography
 OWASP (2023) OWASP Top Ten Web Application Security Risks. 
 https://owasp.org/www-project-top-ten/
 
+Rescorla, E. (2018) The Transport Layer Security (TLS) Protocol Version 1.3. RFC 8446.
+https://www.rfc-editor.org/rfc/rfc8446 .
