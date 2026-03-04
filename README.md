@@ -24,3 +24,4 @@ https://www.rfc-editor.org/rfc/rfc8446 .
 
 Stallings, W. (2020) Cryptography and Network Security: Principles and Practice. 8th edn. Harlow: Pearson Education.
 
+Vaishnav, A. (2021) ‘Base64 Encoding and Its Applications in Web Security’, International Journal of Computer Networks, 13(2), pp. 45–52.
