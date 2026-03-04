@@ -15,3 +15,7 @@ https://www.rfc-editor.org/rfc/rfc2279
 
 Khan Academy (2023) Encoding vs Encryption Explained.
 https://www.khanacademy.org/computing/computer-science/cryptography
+
+OWASP (2023) OWASP Top Ten Web Application Security Risks. 
+https://owasp.org/www-project-top-ten/
+
