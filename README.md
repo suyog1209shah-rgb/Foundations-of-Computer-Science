@@ -21,3 +21,6 @@ https://owasp.org/www-project-top-ten/
 
 Rescorla, E. (2018) The Transport Layer Security (TLS) Protocol Version 1.3. RFC 8446.
 https://www.rfc-editor.org/rfc/rfc8446 .
+
+Stallings, W. (2020) Cryptography and Network Security: Principles and Practice. 8th edn. Harlow: Pearson Education.
+
