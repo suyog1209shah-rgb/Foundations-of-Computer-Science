@@ -34,3 +34,5 @@ Cormen, T. H., Leiserson, C. E., Rivest, R. L., and Stein, C. Introduction to Al
 
 Garey, M. R., and Johnson, D. S. Computers and Intractability: A Guide to the Theory of NP-Completeness. https://www.cs.princeton.edu
 
+GeeksforGeeks. P vs NP Problem. https://www.geeksforgeeks.org/p-vs-np-problem/
+
