@@ -49,3 +49,7 @@ GeeksforGeeks. Database Normalization. https://www.geeksforgeeks.org/database-no
 <img width="526" height="286" alt="Screenshot (103)" src="https://github.com/user-attachments/assets/8a702546-dad7-450d-bc0c-18a22b2a6722" />
 
 <img width="958" height="641" alt="Screenshot (104)" src="https://github.com/user-attachments/assets/139d4118-b90c-4bec-a911-77d3a2f86e4a" />
+
+<img width="779" height="649" alt="Screenshot (105)" src="https://github.com/user-attachments/assets/f0a6eaa2-d9cf-4ed1-9084-4086cb5e758c" />
+
+<img width="643" height="299" alt="Screenshot (106)" src="https://github.com/user-attachments/assets/f6840a0a-42fb-474d-84c3-ea283b3ea194" />
