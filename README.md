@@ -42,3 +42,6 @@ Silberschatz, A., Korth, H. F., & Sudarshan, S. (2019). Database System Concepts
 
 Elmasri, R., & Navathe, S. (2016). Fundamentals of Database Systems. Pearson.
 
+W3Schools. SQL and Database Normalization. https://www.w3schools.com/sql/
+
+
