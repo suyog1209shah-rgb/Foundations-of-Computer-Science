@@ -44,4 +44,4 @@ Elmasri, R., & Navathe, S. (2016). Fundamentals of Database Systems. Pearson.
 
 W3Schools. SQL and Database Normalization. https://www.w3schools.com/sql/
 
-
+GeeksforGeeks. Database Normalization. https://www.geeksforgeeks.org/database-normalization/
