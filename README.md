@@ -47,3 +47,5 @@ W3Schools. SQL and Database Normalization. https://www.w3schools.com/sql/
 GeeksforGeeks. Database Normalization. https://www.geeksforgeeks.org/database-normalization/
 
 <img width="526" height="286" alt="Screenshot (103)" src="https://github.com/user-attachments/assets/8a702546-dad7-450d-bc0c-18a22b2a6722" />
+
+<img width="958" height="641" alt="Screenshot (104)" src="https://github.com/user-attachments/assets/139d4118-b90c-4bec-a911-77d3a2f86e4a" />
