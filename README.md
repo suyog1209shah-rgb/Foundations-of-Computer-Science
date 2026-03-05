@@ -39,3 +39,6 @@ GeeksforGeeks. P vs NP Problem. https://www.geeksforgeeks.org/p-vs-np-problem/
 # Chapter 3
 
 Silberschatz, A., Korth, H. F., & Sudarshan, S. (2019). Database System Concepts. McGraw-Hill.
+
+Elmasri, R., & Navathe, S. (2016). Fundamentals of Database Systems. Pearson.
+
