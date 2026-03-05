@@ -36,3 +36,6 @@ Garey, M. R., and Johnson, D. S. Computers and Intractability: A Guide to the Th
 
 GeeksforGeeks. P vs NP Problem. https://www.geeksforgeeks.org/p-vs-np-problem/
 
+# Chapter 3
+
+Silberschatz, A., Korth, H. F., & Sudarshan, S. (2019). Database System Concepts. McGraw-Hill.
